@@ -1,13 +1,12 @@
-# ALLEGRO-PAINT
+# MS-PAINT in C with ALLEGRO 
 
-Hi everyone, this will be my first "repository" and pull request in github.. so sometimes i could be a noob haha.
+Project to make a MS-PAINT app with C and ALLEGRO library.
 
-Library: ALLEGRO 5 
-Compiler: DEV CPP 
-Platform: Windows
-Language (Comments inside the code): portuguese (sorry for that!)
+## Requirements to edit
+* C++ library installed
+* Windows
+* ALLEGRO 5 library to utilize with C
+* Open main.c and enjoy it!
 
-
-To run all the code, its prety easy, just double click in paint.exe
-
-enjoy it!
+## Requirements to run an example
+Pretty easy. Just double click in paint.exe file
